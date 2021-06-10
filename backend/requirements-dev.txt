@@ -1,5 +1,5 @@
 Cython
-Django>=1.11,<2.0
+Django>=1.11,<3.0
 django-extensions
 django-annoying
 djangorestframework
