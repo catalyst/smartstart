@@ -11,7 +11,7 @@ pylibmc==1.6.0
 python3-saml==1.4.1
 path.py==11.5.0
 requests==2.20.1
-ipython==7.1.1
+ipython==7.16.3
 ipdb==0.11
 uWSGI==2.0.17.1
 whitenoise==4.1.1
